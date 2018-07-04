@@ -9,3 +9,12 @@ US and NO hybrid based on [Pajlada](https://github.com/pajlada)'s version of [US
   * altgr+shift+[ = Å
   * altgr+shift+' = Æ
   * altgr+shift+; = Ø
+  
+
+
+## Usage of xmodmap
+
+xmodmap <location of file>
+
+example: 
+xmodmap ~/.xmodmap
