@@ -13,8 +13,8 @@ US and NO hybrid based on [Pajlada](https://github.com/pajlada)'s version of [US
 
 
 ## Usage of xmodmap
+`xmodmap -pke > ~/.mymodmapfile`
 
-xmodmap <location of file>
+add the lines from the xmodmap file
 
-example: 
-xmodmap ~/.xmodmap
+then `xmodmap ~/.mymodmapfile`
